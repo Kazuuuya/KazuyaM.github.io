@@ -1,0 +1,57 @@
+h1{
+	font-family: courier;
+	color:red;
+	background-color:yellow;
+	text-align:center; 
+    letter-spacing: 10px;
+}
+
+p{
+	color:greenyellow;
+}
+
+img{
+	width:400px;
+	height: 400px;
+	border-radius: 50%;
+}
+
+#avator{
+	width: 700px;
+}
+
+.Monchan{
+	border-radius: 80%;
+}
+
+li{
+	color:rgba(34, 12, 64, 0.6);
+}
+
+a{ 
+	margin: 40px 40px 40px 80px;
+    padding: 8px;
+ 	background-color: blue;
+	color: rgba(230,230,230);
+	border-radius: 8px;
+	font-size: 30px;
+    text-decoration:none;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 75);
+    opacity: 0.5;
+}
+
+h2{
+	margin: 0 auto;
+}
+
+div{
+	background-color: lightgoldenrodyellow;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	background-color: white;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 15px 35px rgba(50, 50, 93, .1);
+}
